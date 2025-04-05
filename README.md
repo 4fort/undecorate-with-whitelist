@@ -1,9 +1,8 @@
-# gnome-shell-extension-undecorate
+# Window Undecorator with Whitelist
 
-Add new item in window menu to undecorate window.
+![screenshot](/prefs.png)
+![screenshot](/always-undecorate.png)
 
-Use `ALT+Space` to show window menu.
+## Installation
 
-Only supports Wayland. No dependencies besides `xtool`.
-
-![screenshot](/Screenshot_altspace.png)
+`make install`
