@@ -2,3 +2,7 @@
 
 ![screenshot](/prefs.png)
 ![screenshot](/always-undecorate.png)
+
+## Installation
+
+`make install`
