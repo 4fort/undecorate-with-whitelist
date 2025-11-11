@@ -4,7 +4,7 @@
   "gettext-domain": "gnome-shell-extensions",
   "name": "Undecorate Window with Whitelist",
   "description": "Add undecorate item in window menu. Use ALT+Space to show window menu.",
-  "shell-version": ["45", "46", "47", "48"],
+  "shell-version": ["45", "46", "47", "48", "49"],
   "original-authors": "4fort",
   "settings-schema": "org.gnome.shell.extensions.undecorate-with-whitelist",
   "url": "https://github.com/4fort/undecorate-with-whitelist",
